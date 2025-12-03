@@ -1589,136 +1589,100 @@ Anderson, L. W. and Krathwohl, D. R. (eds) (2001) A Taxonomy for Learning, Teach
 
 Phần này liệt kê số lượng Mục tiêu Học tập Cấp độ Cơ bản liên quan đến Kết quả Kinh doanh và khả năng truy xuất giữa Kết quả Kinh doanh Cấp độ Cơ bản và Mục tiêu Học tập Cấp độ Cơ bản.
 
-| Kết quả Kinh doanh: Cấp độ Cơ bản |  | FL-BO1 | FL-BO2 | FL-BO3 | FL-BO4 | FL-BO5 | FL-BO6 | FL-BO7 | FL-BO8 | FL-BO9 | FL-BO10 | FL-BO11 | FL-BO12 | FL-BO13 | FL-BO14 |
-| ----- | :---- | ----- | :---- | ----- | ----- | :---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| BO1 | Hiểu kiểm thử là gì và tại sao nó có lợi | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| BO2 | Hiểu các khái niệm cơ bản của kiểm thử phần mềm |  | 22 |  |  |  |  |  |  |  |  |  |  |  |  |
-| BO3 | Xác định cách tiếp cận kiểm thử và các hoạt động cần thực hiện tùy thuộc vào ngữ cảnh kiểm thử |  |  | 6 |  |  |  |  |  |  |  |  |  |  |  |
-| BO4 | Đánh giá và cải thiện chất lượng tài liệu |  |  |  | 9 |  |  |  |  |  |  |  |  |  |  |
-| BO5 | Tăng hiệu quả và hiệu suất của kiểm thử |  |  |  |  | 20 |  |  |  |  |  |  |  |  |  |
-| BO6 | Căn chỉnh quy trình kiểm thử với vòng đời phát triển phần mềm |  |  |  |  |  | 6 |  |  |  |  |  |  |  |  |
-| BO7 | Hiểu các nguyên tắc quản lý kiểm thử |  |  |  |  |  |  | 6 |  |  |  |  |  |  |  |
-| BO8 | Viết và truyền đạt báo cáo khiếm khuyết rõ ràng và dễ hiểu |  |  |  |  |  |  |  | 1 |  |  |  |  |  |  |
-| BO9 | Hiểu các yếu tố ảnh hưởng đến ưu tiên và nỗ lực liên quan đến kiểm thử |  |  |  |  |  |  |  |  | 7 |  |  |  |  |  |
-| BO10 | Làm việc như một phần của nhóm chức năng chéo |  |  |  |  |  |  |  |  |  | 8 |  |  |  |  |
-| BO11 | Biết rủi ro và lợi ích liên quan đến tự động hóa kiểm thử. |  |  |  |  |  |  |  |  |  |  | 1 |  |  |  |
-| BO12 | Xác định các kỹ năng cần thiết cho kiểm thử |  |  |  |  |  |  |  |  |  |  |  | 5 |  |  |
-| BO13 | Hiểu tác động của rủi ro lên kiểm thử |  |  |  |  |  |  |  |  |  |  |  |  | 4 |  |
-| BO14 | Báo cáo hiệu quả về tiến độ kiểm thử và chất lượng |  |  |  |  |  |  |  |  |  |  |  |  |  | 4 |
-
-| Chương/ | Mục tiêu học tập | K- | KẾT QUẢ KINH DOANH |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| :---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | :---- | :---- | :---- | ----- | :---- | :---- | :---- | :---- |
-| Phần/	Mức |  |  | FL-BO1 | FL-BO2 | FL-BO3 | FL-BO4 | FL-BO5 | FL-BO6 | FL-BO7 | FL-BO8 | FL-BO9 | FL-BO10 | FL-BO11 | FL-BO12 | FL-BO13 | FL-BO14 |
-| **Chương 1** | **Cơ bản về Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **1.1** | **Kiểm thử là gì?** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1.1.1 | Xác định các mục tiêu kiểm thử điển hình | K1 | X |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1.1.2 | Phân biệt kiểm thử với gỡ lỗi | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| **1.2** | **Tại sao Kiểm thử Cần thiết?** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1.2.1 | Minh họa tại sao kiểm thử là cần thiết | K2 | X |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1.2.2 | Nhắc lại mối quan hệ giữa kiểm thử và đảm bảo chất lượng | K1 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1.2.3 | Phân biệt nguyên nhân gốc rễ, lỗi, khiếm khuyết và thất bại | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| **1.3** | **Nguyên tắc Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1.3.1 | Giải thích bảy nguyên tắc kiểm thử | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| **1.4** | **Hoạt động Kiểm thử, Tài sản Kiểm thử và Vai trò Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1.4.1 | Giải thích các hoạt động kiểm thử khác nhau và nhiệm vụ liên quan | K2 |  |  | X |  |  |  |  |  |  |  |  |  |  |  |
-| 1.4.2 | Giải thích tác động của ngữ cảnh lên quy trình kiểm thử | K2 |  |  | X |  |  | X |  |  |  |  |  |  |  |  |
-| 1.4.3 | Phân biệt tài sản kiểm thử hỗ trợ các hoạt động kiểm thử | K2 |  |  | X |  |  |  |  |  |  |  |  |  |  |  |
-| 1.4.4 | Giải thích giá trị của việc duy trì khả năng truy xuất | K2 |  |  |  | X | X |  |  |  |  |  |  |  |  |  |
-| 1.4.5 | So sánh các vai trò khác nhau trong kiểm thử | K2 |  |  |  |  |  |  |  |  |  | X |  |  |  |  |
-
-| Chương/ | Mục tiêu học tập | K- | KẾT QUẢ KINH DOANH |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| :---- | ----- | ----- | ----- | ----- | ----- | :---- | ----- | ----- | :---- | :---- | :---- | ----- | :---- | :---- | :---- | :---- |
-| Phần/	Mức |  |  | FL-BO1 | FL-BO2 | FL-BO3 | FL-BO4 | FL-BO5 | FL-BO6 | FL-BO7 | FL-BO8 | FL-BO9 | FL-BO10 | FL-BO11 | FL-BO12 | FL-BO13 | FL-BO14 |
-| **1.5** | **Kỹ năng Cần thiết và Thực hành Tốt trong Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1.5.1 | Đưa ví dụ về các kỹ năng chung cần thiết cho kiểm thử | K2 |  |  |  |  |  |  |  |  |  |  |  | X |  |  |
-| 1.5.2 | Nhắc lại lợi thế của cách tiếp cận toàn bộ nhóm | K1 |  |  |  |  |  |  |  |  |  | X |  |  |  |  |
-| 1.5.3 | Phân biệt lợi ích và nhược điểm của tính độc lập trong kiểm thử | K2 |  |  | X |  |  |  |  |  |  |  |  |  |  |  |
-| **Chương 2** | **Kiểm thử Trong suốt Vòng đời Phát triển Phần mềm** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **2.1** | **Kiểm thử trong Ngữ cảnh của Vòng đời Phát triển Phần mềm** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2.1.1 | Giải thích tác động của vòng đời phát triển phần mềm được chọn lên kiểm thử | K2 |  |  |  |  |  | X |  |  |  |  |  |  |  |  |
-| 2.1.2 | Nhắc lại các thực hành kiểm thử tốt áp dụng cho tất cả các vòng đời phát triển phần mềm | K1 |  |  |  |  |  | X |  |  |  |  |  |  |  |  |
-| 2.1.3 | Nhắc lại các ví dụ về cách tiếp cận phát triển kiểm thử trước | K1 |  |  |  |  | X |  |  |  |  |  |  |  |  |  |
-| 2.1.4 | Tóm tắt cách DevOps có thể có tác động đến kiểm thử | K2 |  |  |  |  | X | X |  |  | X | X |  |  |  |  |
-| 2.1.5 | Giải thích shift left | K2 |  |  |  |  | X | X |  |  |  |  |  |  |  |  |
-| 2.1.6 | Giải thích cách hồi cứu có thể được sử dụng như một cơ chế cải tiến quy trình | K2 |  |  |  |  | X |  |  |  |  | X |  |  |  |  |
-| **2.2** | **Cấp độ Kiểm thử và Loại Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2.2.1 | Phân biệt các cấp độ kiểm thử khác nhau | K2 |  | X | X |  |  |  |  |  |  |  |  |  |  |  |
-| 2.2.2 | Phân biệt các loại kiểm thử khác nhau | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2.2.3 | Phân biệt kiểm thử xác nhận với kiểm thử hồi quy | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Chương/ | Mục tiêu học tập | K- | KẾT QUẢ KINH DOANH |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| :---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | :---- | ----- | :---- | :---- | ----- | :---- | ----- | :---- | :---- |
-| Phần/	Mức |  |  | FL-BO1 | FL-BO2 | FL-BO3 | FL-BO4 | FL-BO5 | FL-BO6 | FL-BO7 | FL-BO8 | FL-BO9 | FL-BO10 | FL-BO11 | FL-BO12 | FL-BO13 | FL-BO14 |
-| **2.3** | **Kiểm thử Bảo trì** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2.3.1 | Tóm tắt kiểm thử bảo trì và các kích hoạt của nó | K2 |  | X |  |  |  |  | X |  |  |  |  |  |  |  |
-| **Chương 3** | **Kiểm thử Tĩnh** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **3.1** | **Cơ bản về Kiểm thử Tĩnh** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3.1.1 | Nhận ra các loại sản phẩm công việc có thể được kiểm tra bằng kiểm thử tĩnh | K1 |  |  |  | X | X |  |  |  |  |  |  |  |  |  |
-| 3.1.2 | Giải thích giá trị của kiểm thử tĩnh | K2 | X |  |  | X | X |  |  |  |  |  |  |  |  |  |
-| 3.1.3 | So sánh và đối chiếu kiểm thử tĩnh và kiểm thử động | K2 |  |  |  | X | X |  |  |  |  |  |  |  |  |  |
-| **3.2** | **Phản hồi và Quy trình Đánh giá** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3.2.1 | Xác định lợi ích của phản hồi sớm và thường xuyên từ các bên liên quan | K1 | X |  |  | X |  |  |  |  |  | X |  |  |  |  |
-| 3.2.2 | Tóm tắt các hoạt động của quy trình đánh giá | K2 |  |  | X | X |  |  |  |  |  |  |  |  |  |  |
-| 3.2.3 | Nhắc lại trách nhiệm nào được giao cho các vai trò chính khi thực hiện đánh giá | K1 |  |  |  | X |  |  |  |  |  |  |  | X |  |  |
-| 3.2.4 | So sánh và đối chiếu các loại đánh giá khác nhau | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3.2.5 | Nhắc lại các yếu tố góp phần vào một đánh giá thành công | K1 |  |  |  |  | X |  |  |  |  |  |  | X |  |  |
-| **Chương 4** | **Phân tích và Thiết kế Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **4.1** | **Tổng quan về Kỹ thuật Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Chương/ | Mục tiêu học tập | K- | KẾT QUẢ KINH DOANH |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| :---- | ----- | ----- | ----- | ----- | ----- | :---- | :---- | ----- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Phần/	Mức |  |  | FL-BO1 | FL-BO2 | FL-BO3 | FL-BO4 | FL-BO5 | FL-BO6 | FL-BO7 | FL-BO8 | FL-BO9 | FL-BO10 | FL-BO11 | FL-BO12 | FL-BO13 | FL-BO14 |
-| 4.1.1 | Phân biệt kỹ thuật kiểm thử hộp đen, kỹ thuật kiểm thử hộp trắng và kỹ thuật kiểm thử dựa trên kinh nghiệm | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| **4.2** | **Kỹ thuật Kiểm thử Hộp đen** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.2.1 | Sử dụng phân vùng tương đương để suy ra các trường hợp kiểm thử | K3 |  |  |  |  | X |  |  |  |  |  |  |  |  |  |
-| 4.2.2 | Sử dụng phân tích giá trị biên để suy ra các trường hợp kiểm thử | K3 |  |  |  |  | X |  |  |  |  |  |  |  |  |  |
-| 4.2.3 | Sử dụng kiểm thử bảng quyết định để suy ra các trường hợp kiểm thử | K3 |  |  |  |  | X |  |  |  |  |  |  |  |  |  |
-| 4.2.4 | Sử dụng kiểm thử chuyển đổi trạng thái để suy ra các trường hợp kiểm thử | K3 |  |  |  |  | X |  |  |  |  |  |  |  |  |  |
-| **4.3** | **Kỹ thuật Kiểm thử Hộp trắng** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.3.1 | Giải thích kiểm thử câu lệnh | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.3.2 | Giải thích kiểm thử nhánh | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.3.3 | Giải thích giá trị của kiểm thử hộp trắng | K2 | X | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| **4.4** | **Kỹ thuật Kiểm thử Dựa trên Kinh nghiệm** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.4.1 | Giải thích phỏng đoán lỗi | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.4.2 | Giải thích kiểm thử khám phá | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4.4.3 | Giải thích kiểm thử dựa trên danh sách kiểm tra | K2 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| **4.5** | **Cách tiếp cận Kiểm thử Dựa trên Cộng tác** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Chương/ | Mục tiêu học tập | K- | KẾT QUẢ KINH DOANH |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| :---- | ----- | ----- | ----- | ----- | ----- | :---- | ----- | ----- | ----- | ----- | :---- | ----- | ----- | :---- | :---- | ----- | :---- |
-| Phần/	Mức |  |  | FL-BO1 | FL-BO2 | FL-BO3 | FL-BO4 | FL-BO5 | FL-BO6 | FL-BO7 | FL-BO8 | FL-BO9 | FL-BO10 | FL-BO11 | FL-BO12 | FL-BO13 | FL-BO14 |
-| 4.5.1 | Giải thích cách viết user story cộng tác với nhà phát triển và đại diện nghiệp vụ | K2 |  |  |  | X |  |  |  |  |  | X |  |  |  |  |
-| 4.5.2 | Phân loại các tùy chọn khác nhau để viết tiêu chí chấp nhận | K2 |  |  |  |  |  |  |  |  |  | X |  |  |  |  |
-| 4.5.3 | Sử dụng phát triển hướng kiểm thử chấp nhận (ATDD) để suy ra các trường hợp kiểm thử | K3 |  |  |  |  | X |  |  |  |  |  |  |  |  |  |
-| **Chương 5** | **Quản lý Hoạt động Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **5.1** | **Lập kế hoạch Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5.1.1 | Minh họa mục đích và nội dung của một kế hoạch kiểm thử | K2 |  | X |  |  |  |  | X |  |  |  |  |  |  |  |
-| 5.1.2 | Nhận ra cách một người kiểm thử thêm giá trị vào lập kế hoạch lặp và phát hành | K1 | X |  |  |  |  |  |  |  |  | X |  | X |  |  |
-| 5.1.3 | So sánh và đối chiếu tiêu chí đầu vào và tiêu chí đầu ra | K2 |  |  |  | X |  | X |  |  |  |  |  |  |  | X |
-| 5.1.4 | Sử dụng kỹ thuật ước lượng để tính toán nỗ lực kiểm thử cần thiết | K3 |  |  |  |  |  |  | X |  | X |  |  |  |  |  |
-| 5.1.5 | Áp dụng ưu tiên hóa trường hợp kiểm thử | K3 |  |  |  |  |  |  | X |  | X |  |  |  |  |  |
-| 5.1.6 | Nhắc lại các khái niệm của kim tự tháp kiểm thử | K1 |  | X |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5.1.7 | Tóm tắt bốn góc phần tư kiểm thử và mối quan hệ của chúng với cấp độ kiểm thử và loại kiểm thử | K2 |  | X |  |  |  |  |  |  | X |  |  |  |  |  |
-| **5.2** | **Quản lý Rủi ro** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5.2.1 | Xác định mức độ rủi ro bằng cách sử dụng khả năng xảy ra rủi ro và tác động rủi ro | K1 |  |  |  |  |  |  | X |  |  |  |  |  | X |  |
-| 5.2.2 | Phân biệt giữa rủi ro dự án và rủi ro sản phẩm | K2 |  | X |  |  |  |  |  |  |  |  |  |  | X |  |
-| Chương/ | Mục tiêu học tập | K- | KẾT QUẢ KINH DOANH |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| :---- | ----- | ----- | ----- | ----- | ----- | :---- | :---- | ----- | :---- | ----- | ----- | ----- | :---- | :---- | :---- | ----- | ----- |
-| Phần/	Mức |  |  | FL-BO1 | FL-BO2 | FL-BO3 | FL-BO4 | FL-BO5 | FL-BO6 | FL-BO7 | FL-BO8 | FL-BO9 | FL-BO10 | FL-BO11 | FL-BO12 | FL-BO13 | FL-BO14 |
-| 5.2.3 | Giải thích cách phân tích rủi ro sản phẩm có thể ảnh hưởng đến độ kỹ lưỡng và phạm vi kiểm thử | K2 |  |  |  |  | X |  |  |  | X |  |  |  | X |  |
-| 5.2.4 | Giải thích các biện pháp có thể được thực hiện để đáp ứng với các rủi ro sản phẩm đã phân tích | K2 |  | X |  |  | X |  |  |  |  |  |  |  | X |  |
-| **5.3** | **Giám sát Kiểm thử, Điều khiển Kiểm thử và Kết thúc Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5.3.1 | Nhắc lại các số liệu được sử dụng cho kiểm thử | K1 |  |  |  |  |  |  |  |  | X |  |  |  |  | X |
-| 5.3.2 | Tóm tắt mục đích, nội dung và đối tượng cho báo cáo kiểm thử | K2 |  |  |  |  | X |  |  |  | X |  |  |  |  | X |
-| 5.3.3 | Minh họa cách truyền đạt trạng thái kiểm thử | K2 |  |  |  |  |  |  |  |  |  |  |  | X |  | X |
-| **5.4** | **Quản lý Cấu hình** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5.4.1 | Tóm tắt cách quản lý cấu hình hỗ trợ kiểm thử | K2 |  |  |  |  | X |  | X |  |  |  |  |  |  |  |
-| **5.5** | **Quản lý Khiếm khuyết** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5.5.1 | Chuẩn bị một báo cáo khiếm khuyết | K3 |  | X |  |  |  |  |  | X |  |  |  |  |  |  |
-| **Chương 6** | **Công cụ Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| **6.1** | **Hỗ trợ Công cụ cho Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 6.1.1 | Giải thích cách các loại công cụ kiểm thử khác nhau hỗ trợ kiểm thử | K2 |  |  |  |  | X |  |  |  |  |  |  |  |  |  |
-| **6.2** | **Lợi ích và Rủi ro của Tự động hóa Kiểm thử** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 6.2.1 | Nhắc lại lợi ích và rủi ro của tự động hóa kiểm thử | K1 |  |  |  |  | X |  |  |  |  |  | X |  |  |  |
+| Chương/Phần/Mức | Mục tiêu học tập | K- | FL-BO1 | FL-BO2 | FL-BO3 | FL-BO4 | FL-BO5 | FL-BO6 | FL-BO7 | FL-BO8 | FL-BO9 | FL-BO10 | FL-BO11 | FL-BO12 | FL-BO13 | FL-BO14 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Chương 1** | **Cơ bản về Kiểm thử** | | | | | | | | | | | | | | | |
+| **1.1** | **Kiểm thử là gì?** | | | | | | | | | | | | | | | |
+| 1.1.1 | Xác định các mục tiêu kiểm thử điển hình | K1 | X | | | | | | | | | | | | | |
+| 1.1.2 | Phân biệt kiểm thử với gỡ lỗi | K2 | | X | | | | | | | | | | | | |
+| **1.2** | **Tại sao Kiểm thử Cần thiết?** | | | | | | | | | | | | | | | |
+| 1.2.1 | Minh họa tại sao kiểm thử là cần thiết | K2 | X | | | | | | | | | | | | | |
+| 1.2.2 | Nhắc lại mối quan hệ giữa kiểm thử và đảm bảo chất lượng | K1 | | X | | | | | | | | | | | | |
+| 1.2.3 | Phân biệt nguyên nhân gốc rễ, lỗi, khiếm khuyết và thất bại | K2 | | X | | | | | | | | | | | | |
+| **1.3** | **Nguyên tắc Kiểm thử** | | | | | | | | | | | | | | | |
+| 1.3.1 | Giải thích bảy nguyên tắc kiểm thử | K2 | | X | | | | | | | | | | | | |
+| **1.4** | **Hoạt động Kiểm thử, Tài sản Kiểm thử và Vai trò Kiểm thử** | | | | | | | | | | | | | | | |
+| 1.4.1 | Giải thích các hoạt động kiểm thử khác nhau và nhiệm vụ liên quan | K2 | | | X | | | | | | | | | | | |
+| 1.4.2 | Giải thích tác động của ngữ cảnh lên quy trình kiểm thử | K2 | | | X | | | X | | | | | | | | |
+| 1.4.3 | Phân biệt tài sản kiểm thử hỗ trợ các hoạt động kiểm thử | K2 | | | X | | | | | | | | | | | |
+| 1.4.4 | Giải thích giá trị của việc duy trì khả năng truy xuất | K2 | | | | X | X | | | | | | | | | |
+| 1.4.5 | So sánh các vai trò khác nhau trong kiểm thử | K2 | | | | | | | | | | X | | | | |
+| **1.5** | **Kỹ năng Cần thiết và Thực hành Tốt trong Kiểm thử** | | | | | | | | | | | | | | | |
+| 1.5.1 | Đưa ví dụ về các kỹ năng chung cần thiết cho kiểm thử | K2 | | | | | | | | | | | | X | | |
+| 1.5.2 | Nhắc lại lợi thế của cách tiếp cận toàn bộ nhóm | K1 | | | | | | | | | | X | | | | |
+| 1.5.3 | Phân biệt lợi ích và nhược điểm của tính độc lập trong kiểm thử | K2 | | | X | | | | | | | | | | | |
+| **Chương 2** | **Kiểm thử Trong suốt Vòng đời Phát triển Phần mềm** | | | | | | | | | | | | | | | |
+| **2.1** | **Kiểm thử trong Ngữ cảnh của Vòng đời Phát triển Phần mềm** | | | | | | | | | | | | | | | |
+| 2.1.1 | Giải thích tác động của vòng đời phát triển phần mềm được chọn lên kiểm thử | K2 | | | | | | X | | | | | | | | |
+| 2.1.2 | Nhắc lại các thực hành kiểm thử tốt áp dụng cho tất cả các vòng đời phát triển phần mềm | K1 | | | | | | X | | | | | | | | |
+| 2.1.3 | Nhắc lại các ví dụ về cách tiếp cận phát triển kiểm thử trước | K1 | | | | | X | | | | | | | | | |
+| 2.1.4 | Tóm tắt cách DevOps có thể có tác động đến kiểm thử | K2 | | | | | X | X | | | X | X | | | | |
+| 2.1.5 | Giải thích shift left | K2 | | | | | X | X | | | | | | | | |
+| 2.1.6 | Giải thích cách hồi cứu có thể được sử dụng như một cơ chế cải tiến quy trình | K2 | | | | | X | | | | | X | | | | |
+| **2.2** | **Cấp độ Kiểm thử và Loại Kiểm thử** | | | | | | | | | | | | | | | |
+| 2.2.1 | Phân biệt các cấp độ kiểm thử khác nhau | K2 | | X | X | | | | | | | | | | | |
+| 2.2.2 | Phân biệt các loại kiểm thử khác nhau | K2 | | X | | | | | | | | | | | | |
+| 2.2.3 | Phân biệt kiểm thử xác nhận với kiểm thử hồi quy | K2 | | X | | | | | | | | | | | | |
+| **2.3** | **Kiểm thử Bảo trì** | | | | | | | | | | | | | | | |
+| 2.3.1 | Tóm tắt kiểm thử bảo trì và các kích hoạt của nó | K2 | | X | | | | | X | | | | | | | |
+| **Chương 3** | **Kiểm thử Tĩnh** | | | | | | | | | | | | | | | |
+| **3.1** | **Cơ bản về Kiểm thử Tĩnh** | | | | | | | | | | | | | | | |
+| 3.1.1 | Nhận ra các loại sản phẩm công việc có thể được kiểm tra bằng kiểm thử tĩnh | K1 | | | | X | X | | | | | | | | | |
+| 3.1.2 | Giải thích giá trị của kiểm thử tĩnh | K2 | X | | | X | X | | | | | | | | | |
+| 3.1.3 | So sánh và đối chiếu kiểm thử tĩnh và kiểm thử động | K2 | | | | X | X | | | | | | | | | |
+| **3.2** | **Phản hồi và Quy trình Đánh giá** | | | | | | | | | | | | | | | |
+| 3.2.1 | Xác định lợi ích của phản hồi sớm và thường xuyên từ các bên liên quan | K1 | X | | | X | | | | | | X | | | | |
+| 3.2.2 | Tóm tắt các hoạt động của quy trình đánh giá | K2 | | | X | X | | | | | | | | | | |
+| 3.2.3 | Nhắc lại trách nhiệm nào được giao cho các vai trò chính khi thực hiện đánh giá | K1 | | | | X | | | | | | | | X | | |
+| 3.2.4 | So sánh và đối chiếu các loại đánh giá khác nhau | K2 | | X | | | | | | | | | | | | |
+| 3.2.5 | Nhắc lại các yếu tố góp phần vào một đánh giá thành công | K1 | | | | | X | | | | | | | X | | |
+| **Chương 4** | **Phân tích và Thiết kế Kiểm thử** | | | | | | | | | | | | | | | |
+| **4.1** | **Tổng quan về Kỹ thuật Kiểm thử** | | | | | | | | | | | | | | | |
+| 4.1.1 | Phân biệt kỹ thuật kiểm thử hộp đen, kỹ thuật kiểm thử hộp trắng và kỹ thuật kiểm thử dựa trên kinh nghiệm | K2 | | X | | | | | | | | | | | | |
+| **4.2** | **Kỹ thuật Kiểm thử Hộp đen** | | | | | | | | | | | | | | | |
+| 4.2.1 | Sử dụng phân vùng tương đương để suy ra các trường hợp kiểm thử | K3 | | | | | X | | | | | | | | | |
+| 4.2.2 | Sử dụng phân tích giá trị biên để suy ra các trường hợp kiểm thử | K3 | | | | | X | | | | | | | | | |
+| 4.2.3 | Sử dụng kiểm thử bảng quyết định để suy ra các trường hợp kiểm thử | K3 | | | | | X | | | | | | | | | |
+| 4.2.4 | Sử dụng kiểm thử chuyển đổi trạng thái để suy ra các trường hợp kiểm thử | K3 | | | | | X | | | | | | | | | |
+| **4.3** | **Kỹ thuật Kiểm thử Hộp trắng** | | | | | | | | | | | | | | | |
+| 4.3.1 | Giải thích kiểm thử câu lệnh | K2 | | X | | | | | | | | | | | | |
+| 4.3.2 | Giải thích kiểm thử nhánh | K2 | | X | | | | | | | | | | | | |
+| 4.3.3 | Giải thích giá trị của kiểm thử hộp trắng | K2 | X | X | | | | | | | | | | | | |
+| **4.4** | **Kỹ thuật Kiểm thử Dựa trên Kinh nghiệm** | | | | | | | | | | | | | | | |
+| 4.4.1 | Giải thích phỏng đoán lỗi | K2 | | X | | | | | | | | | | | | |
+| 4.4.2 | Giải thích kiểm thử khám phá | K2 | | X | | | | | | | | | | | | |
+| 4.4.3 | Giải thích kiểm thử dựa trên danh sách kiểm tra | K2 | | X | | | | | | | | | | | | |
+| **4.5** | **Cách tiếp cận Kiểm thử Dựa trên Cộng tác** | | | | | | | | | | | | | | | |
+| 4.5.1 | Giải thích cách viết user story cộng tác với nhà phát triển và đại diện nghiệp vụ | K2 | | | | X | | | | | | X | | | | |
+| 4.5.2 | Phân loại các tùy chọn khác nhau để viết tiêu chí chấp nhận | K2 | | | | | | | | | | X | | | | |
+| 4.5.3 | Sử dụng phát triển hướng kiểm thử chấp nhận (ATDD) để suy ra các trường hợp kiểm thử | K3 | | | | | X | | | | | | | | | |
+| **Chương 5** | **Quản lý Hoạt động Kiểm thử** | | | | | | | | | | | | | | | |
+| **5.1** | **Lập kế hoạch Kiểm thử** | | | | | | | | | | | | | | | |
+| 5.1.1 | Minh họa mục đích và nội dung của một kế hoạch kiểm thử | K2 | | X | | | | | X | | | | | | | |
+| 5.1.2 | Nhận ra cách một người kiểm thử thêm giá trị vào lập kế hoạch lặp và phát hành | K1 | X | | | | | | | | | X | | X | | |
+| 5.1.3 | So sánh và đối chiếu tiêu chí đầu vào và tiêu chí đầu ra | K2 | | | | X | | X | | | | | | | | X |
+| 5.1.4 | Sử dụng kỹ thuật ước lượng để tính toán nỗ lực kiểm thử cần thiết | K3 | | | | | | | X | | X | | | | | |
+| 5.1.5 | Áp dụng ưu tiên hóa trường hợp kiểm thử | K3 | | | | | | | X | | X | | | | | |
+| 5.1.6 | Nhắc lại các khái niệm của kim tự tháp kiểm thử | K1 | | X | | | | | | | | | | | | |
+| 5.1.7 | Tóm tắt bốn góc phần tư kiểm thử và mối quan hệ của chúng với cấp độ kiểm thử và loại kiểm thử | K2 | | X | | | | | | | X | | | | | |
+| **5.2** | **Quản lý Rủi ro** | | | | | | | | | | | | | | | |
+| 5.2.1 | Xác định mức độ rủi ro bằng cách sử dụng khả năng xảy ra rủi ro và tác động rủi ro | K1 | | | | | | | X | | | | | | X | |
+| 5.2.2 | Phân biệt giữa rủi ro dự án và rủi ro sản phẩm | K2 | | X | | | | | | | | | | | X | |
+| 5.2.3 | Giải thích cách phân tích rủi ro sản phẩm có thể ảnh hưởng đến độ kỹ lưỡng và phạm vi kiểm thử | K2 | | | | | X | | | | X | | | | X | |
+| 5.2.4 | Giải thích các biện pháp có thể được thực hiện để đáp ứng với các rủi ro sản phẩm đã phân tích | K2 | | X | | | X | | | | | | | | X | |
+| **5.3** | **Giám sát Kiểm thử, Điều khiển Kiểm thử và Kết thúc Kiểm thử** | | | | | | | | | | | | | | | |
+| 5.3.1 | Nhắc lại các số liệu được sử dụng cho kiểm thử | K1 | | | | | | | | | X | | | | | X |
+| 5.3.2 | Tóm tắt mục đích, nội dung và đối tượng cho báo cáo kiểm thử | K2 | | | | | X | | | | X | | | | | X |
+| 5.3.3 | Minh họa cách truyền đạt trạng thái kiểm thử | K2 | | | | | | | | | | | | X | | X |
+| **5.4** | **Quản lý Cấu hình** | | | | | | | | | | | | | | | |
+| 5.4.1 | Tóm tắt cách quản lý cấu hình hỗ trợ kiểm thử | K2 | | | | | X | | X | | | | | | | |
+| **5.5** | **Quản lý Khiếm khuyết** | | | | | | | | | | | | | | | |
+| 5.5.1 | Chuẩn bị một báo cáo khiếm khuyết | K3 | | X | | | | | | X | | | | | | |
+| **Chương 6** | **Công cụ Kiểm thử** | | | | | | | | | | | | | | | |
+| **6.1** | **Hỗ trợ Công cụ cho Kiểm thử** | | | | | | | | | | | | | | | |
+| 6.1.1 | Giải thích cách các loại công cụ kiểm thử khác nhau hỗ trợ kiểm thử | K2 | | | | | X | | | | | | | | | |
+| **6.2** | **Lợi ích và Rủi ro của Tự động hóa Kiểm thử** | | | | | | | | | | | | | | | |
+| 6.2.1 | Nhắc lại lợi ích và rủi ro của tự động hóa kiểm thử | K1 | | | | | X | | | | | | X | | | |
 
 ISTQB® Foundation Syllabus v4.0.1 là một bản sửa lỗi cho Giáo trình Cấp độ Cơ bản v4.0. Bản sửa lỗi này bao gồm các thay đổi sau.
 
@@ -2115,3 +2079,4 @@ waterfall model (mô hình thác nước), 25
 
 white-box test technique (kỹ thuật kiểm thử hộp trắng), 39, 42  
 white-box testing (kiểm thử hộp trắng), 30 whole team approach (cách tiếp cận toàn bộ nhóm), 22 Wideband Delphi (Wideband Delphi), 50
+
