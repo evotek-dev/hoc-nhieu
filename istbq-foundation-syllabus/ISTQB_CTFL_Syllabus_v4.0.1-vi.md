@@ -1,4 +1,4 @@
-**Giáo trình ISTBQ Foundation**  
+# Giáo trình ISTBQ Foundation
 v4.0.1
 
 Hội đồng Chứng nhận Kiểm thử Phần mềm Quốc tế
@@ -2077,3 +2077,4 @@ waterfall model (mô hình thác nước), 25
 
 white-box test technique (kỹ thuật kiểm thử hộp trắng), 39, 42  
 white-box testing (kiểm thử hộp trắng), 30 whole team approach (cách tiếp cận toàn bộ nhóm), 22 Wideband Delphi (Wideband Delphi), 50  
+
